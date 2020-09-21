@@ -37,7 +37,7 @@ h1, h2, h3, h4, h5, h6 {
     background-color: #ffffff;
     font-size: 15px;
     line-height: 2;
-    box-shadow: 0px 0px 30px #8a8585;
+    box-shadow: 0 0 30px #8a8585;
 }
 
 .top a{
@@ -74,7 +74,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .sub-content{
-    margin: 0px 200px;
+    margin: 0 200px;
 }
 
 hr{
@@ -86,7 +86,7 @@ hr{
 #about, #menu, #contact{
     display: table;
     width: 100%;
-    padding: 64px 0px;
+    padding: 64px 0;
 }
 
 #about .right-sec, #menu .left-side{
