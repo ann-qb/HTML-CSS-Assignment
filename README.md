@@ -4,4 +4,4 @@
 ![Design Image](Workshop-Design.png)
 
 ## Webpage Screenshot
-![Webpage Screenshot](images/Screenshot_2020-09-21 Gourmet au Catering.jpg)
+![Webpage Screenshot](images/Screenshot.jpg)
